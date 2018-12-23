@@ -1,0 +1,5 @@
+= Antora Component: Survival-List
+// :idprefix:
+// :idseparator: -
+
+This Antora component describes things to have on hand before you need them.
