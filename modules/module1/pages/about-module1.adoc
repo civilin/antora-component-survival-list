@@ -6,4 +6,4 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This is the *About Module 1* landing page, in the survival-list component...
+This is the *About Module 1* landing page, in the survival-list component.
